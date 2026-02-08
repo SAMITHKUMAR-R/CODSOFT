@@ -14,8 +14,8 @@ public class NumberGuessingGame {
 
         while (playAgain) {
 
-            int number = rand.nextInt(100) + 1; // Random number 1-100
-            int maxAttempts = 7; // Attempt limit
+            int number = rand.nextInt(100) + 1;
+            int maxAttempts = 7;
             int attempts = 0;
             boolean guessedCorrectly = false;
 
