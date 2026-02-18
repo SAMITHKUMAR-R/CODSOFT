@@ -64,5 +64,6 @@ public class NumberGuessingGame {
 
         System.out.println("\nThanks for playing! Final Score: " + totalScore);
         sc.close();
+
     }
 }
